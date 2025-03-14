@@ -1,1 +1,1 @@
-# bikadochub
+# bika-doc-hub
